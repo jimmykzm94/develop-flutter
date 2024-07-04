@@ -1,0 +1,1 @@
+gcc -shared -o bin/calculate.so  bin/calculate.c
